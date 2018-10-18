@@ -1,0 +1,10 @@
+.wrapper{
+	display: none;
+}
+
+h1 {
+	font-size: 25px;
+	color: red;
+	text-align: center;
+	margin-top: 50px;
+}
